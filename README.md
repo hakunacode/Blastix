@@ -1,2 +1,3 @@
 # Blastix
-Shooting game
+
+Shooting game for iPhone/iPad
